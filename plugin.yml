@@ -1,0 +1,13 @@
+name: BedRush
+version: 0.1
+author: Thorben653YT & RageMC
+main: BedRush.thorben653.main.BR
+commands:
+  setLobby:
+  setBlueSpawn:
+  setRedSpawn:
+  start:
+  addSpawner:
+  setbluebedbody:
+  setredbedbody:
+  stats:
